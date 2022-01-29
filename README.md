@@ -6,15 +6,15 @@ Mint-lib is library to interact with API [Mint](https://github.com/leffw/mint) t
 
 ## Install lib
 ```bash
-python3 setup.py install
+$ python3 setup.py install
 ```
 
 ## Testing lib
 ```bash
-python3 -m pytest 
+$ python3 -m pytest 
 ```
 
 ## Example in code
 ```bash
-cat ./test_mintlib.py
+$ cat ./test_mintlib.py
 ```
